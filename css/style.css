@@ -1,4 +1,50 @@
 td, th {
 	border: 1px solid;
+  text-align: center;
+  
+  }
+
+img {
+  width: 200px;
+  height:200px;
+  }
+
+body {
+  font-size: 20px;
   }
   
+#planets {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: ;
+  }
+  
+.planet_names {
+  font-size: 36px;
+  font-family: impact;
+  color: ;
+  }
+  
+.mercury {
+  background-color: #ababab;
+  }
+  
+.venus {
+  background-color: #dfa13c;
+  }
+  
+.earth {
+  background-color: #b4b8d9;
+  }
+  
+.mars {
+  background-color: #a0826a;
+  }
+  
+ .sidebar {
+  
+  }
+  
+.imageback {
+  background-color: black;
+  }
