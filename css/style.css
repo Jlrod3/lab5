@@ -10,20 +10,28 @@ img {
   }
 
 body {
-  font-size: 20px;
+  font-size: 16px;
+  color: d0deb4;
+  border: 0px;
   }
   
 h1 {
   text-align: center;
-  Font size: 50px;
+  Font size: 64px;
   font-family: Arial;
   font-style: bold;
+  }
+  
+seq {
+  font-size: 12px;
+  font-family: Arial;
   }
   
 #planets {
   margin-left: auto;
   margin-right: auto;
-  background-color: ;
+  background-color: darkseagreen;
+  
   }
   
 .planet_names {
@@ -49,7 +57,8 @@ h1 {
   }
   
  .sidebar {
-  
+  font-size: 24px;
+  font-family: Arial;
   }
   
 .imageback {
