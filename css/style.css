@@ -11,13 +11,13 @@ img {
 
 body {
   font-size: 16px;
-  color: d0deb4;
+  background-color: honeydew;
   border: 0px;
   }
   
 h1 {
   text-align: center;
-  Font size: 64px;
+  font size: 64px;
   font-family: Arial;
   font-style: bold;
   }
